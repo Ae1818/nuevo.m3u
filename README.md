@@ -460,3 +460,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/k1mql3yg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ee352aac7ed8ee1cb42cfdf322b1cb0:053d635fc90e175881bef26cd29f371e
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kqftwsvdgz/out/v1/9f866bc326d241aa9d470c52654a7bf9/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="bitMe HD.uy" tvg-logo="https://i.ibb.co/QvXMrcWW/BITME.png" group-title="INFANTIL",Bitme
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=391ad12844fdb7c127e2c7ba23582b3b:6c9b3103cd519fcad556e84f918998cd
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd
+
