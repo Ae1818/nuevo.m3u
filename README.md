@@ -46,41 +46,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/nzl2d4ffbw/
 #KODIPROP:inputstream.adaptive.license_key=da81f7165f73c884fc1dcf0bf3bd4bb5:3f8d519997196db76631dd4b427f53f6
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd
 
-#EXTINF:-1 group-title="PROVIDERS",FOX SPORTS (🇦🇷)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5017e89955f44ff5b4ddf04e5f5151c6:55136a837a0c8bbcfc7ce65cbd9a547c
-https://ciades.providers.com.ar/FOXSPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-
-#EXTINF:-1 group-title="PROVIDERS",FOX SPORTS 2 (🇦🇷)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e0e38315c40c4176bab472b349c551ae:d2f1712fc296fee968c7ae0750b2c45b
-https://ciades.providers.com.ar/FOXSPORTS2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-
-#EXTINF:-1 group-title="PROVIDERS",FOX SPORTS 3 (🇦🇷)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c72cc2fd2ce34ff78b71765fb85f990d:05fcda26315ffe49f178eca1423831f5
-https://ciades.providers.com.ar/FOXSPORTS3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-
-#EXTINF:-1 group-title="PROVIDERS",ESPN (🇦🇷)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
-https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-
-#EXTINF:-1 group-title="PROVIDERS",ESPN PREMIUM (🇦🇷)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00e08f97d3104d8ba550414f41b48761:ed9c6e30925d4efe6c7374b764c67ec4
-https://ciades.providers.com.ar/ESPNPREMIUM/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
-
 #EXTINF:-1 group-title="Amazon",FOX SPORTS 🇲🇽
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
