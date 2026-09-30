@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
-http://187.245.231.226:8000/play/a0sl/index.m3u8
+http://187.245.231.226:8000/play/a0sm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
 http://187.245.231.226:8000/play/a0sl/index.m3u8)
