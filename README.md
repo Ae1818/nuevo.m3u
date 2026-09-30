@@ -18,6 +18,9 @@ https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN&DONTSTEAL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", CHAMPIONS LEAGUE ⚽️
+http://168.196.127.137:6001/play/a08z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", CHAMPIONS LEAGUE ⚽️⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN&DONTSTEAL
 
 
