@@ -6,6 +6,12 @@ http://187.245.231.226:8000/play/a0sm/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
 http://187.245.231.226:8000/play/a0sl/index.m3u8)
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR", WOW TV
+#EXTVLCOPT:http-referrer=https://wowelsalvador.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA 🇪🇸 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
