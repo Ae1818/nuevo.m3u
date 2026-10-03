@@ -4,7 +4,10 @@
 http://187.245.231.226:8000/play/a0sm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
-http://187.245.231.226:8000/play/a0sl/index.m3u8)
+http://187.245.231.226:8000/play/a0sl/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR", FOX 🇸🇻
+http://45.5.118.152:8000/play/a0dh/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR", WOW TV
 #EXTVLCOPT:http-referrer=https://wowelsalvador.com/
