@@ -20,7 +20,7 @@ https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="EL SALVADOR",Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.co"tvg-logo="https://i.ibb.co/Rk6FS2Bh/espn-pngitem-1402483.png" group-title=“DEPORTES”,ESPN
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="" group-title="DEPORTES",ESPN
 http://138.94.3.106:8000/play/a02l/index.m3u8
 
 
