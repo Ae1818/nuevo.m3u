@@ -23,6 +23,9 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES",ESPN
 http://138.94.3.106:8000/play/a02l/index.m3u8
 
+#EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="DEPORTES",BAND SPORTS
+http://45.162.64.114/BAND_SPORTS/index.m3u8
+
 #EXTINF:-1 tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10" group-title="DEPORTES",SKY SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_MX
