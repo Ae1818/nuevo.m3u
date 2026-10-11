@@ -24,6 +24,12 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 http://138.94.3.106:8000/play/a02l/index.m3u8
 
 
+#EXTINF:-1 tvg-name="BEIN SPORTS Ñ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png" group-title="LIGAS EUROPEAS",🇫🇷 Liga 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.143 Safari/537.36
+https://lott2-reach-opus.cdn.avp.telus.net/232006003149/vxfmt=dp/manifest.mpd?device_profile=dashvmx
+
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal19_SV.png" group-title="EL SALVADOR",Canal 19
 https://liveassets.encoders.immergo.tv/megasvision/uvod-live-encoder-1day/mgvchannel19/master.m3u8
 
