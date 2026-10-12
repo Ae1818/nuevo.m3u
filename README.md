@@ -67,6 +67,27 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", CHAMPIONS LEAGUE ⚽️
 http://168.196.127.137:6001/play/a08z/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Fox+Deportes&font=Oswald" group-title="DEPORTES", Fox Deportes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Fox+Sports+1+US&font=Oswald" group-title="DEPORTES", Fox Sports 1 US
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte-netskrt.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Fox+Sports+2+US&font=Oswald" group-title="DEPORTES", Fox Sports 2 US
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", CHAMPIONS LEAGUE ⚽️⚽️
 https://tkx.mp.lura.live/rest/v2/mcp/video/adstkZj0NvKqzB6e?anvack=8Q6d5qd2lubv3MRhZrh9xmoPC9Xzo64n&0GKUSH_R4IN&DONTSTEAL
 
