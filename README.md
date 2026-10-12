@@ -21,7 +21,7 @@ https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES",ESPN
-http://138.94.3.106:8000/play/a02l/index.m3u8
+http://45.170.130.224:8000/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="DEPORTES",BAND SPORTS
 http://45.162.64.114/BAND_SPORTS/index.m3u8
