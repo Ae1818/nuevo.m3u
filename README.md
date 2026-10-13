@@ -24,6 +24,12 @@ https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/p
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="EL SALVADOR",Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 
+#EXTINF:-1 group-title="INFANTIL" tvg-id="TomandJerry2" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428",0. Tom and Jerry 
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", group-title="NOTICIAS", Latina Peru
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
+
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES",ESPN
 http://45.170.130.224:8000/play/a04l/index.m3u8
 
