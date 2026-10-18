@@ -36,13 +36,8 @@ http://45.170.130.224:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="DEPORTES",BAND SPORTS
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10" group-title="DEPORTES",SKY SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/SKY_SPORTS_MX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
-https://live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
-
+#EXTINF:-1 tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10" group-title="DEPORTES", TELEMUNDO
+http://45.170.34.136/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS Ñ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png" group-title="LIGAS EUROPEAS",🇫🇷 Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
