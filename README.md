@@ -20,6 +20,8 @@ https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="INFANTIL", Alabanza y Palabra
 https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://raw.githubusercontent.com/00504/play/refs/heads/tv/logos/Canal21_SV.png" group-title="EL SALVADOR",Canal 21
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
