@@ -47,6 +47,9 @@ http://45.170.130.224:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="https://i.ibb.co/WWrRh4X/Band-Sports.png" group-title="DEPORTES",BAND SPORTS
 http://45.162.64.114/BAND_SPORTS/index.m3u8
 
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-name="Animal Planet Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="CULTURA",Animal Planet 
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+
 #EXTINF:-1 tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10" group-title="DEPORTES", TELEMUNDO
 http://45.170.34.136/TELEMUNDO/index.m3u8
 
