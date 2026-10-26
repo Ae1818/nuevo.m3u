@@ -57,6 +57,18 @@ http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-name="SKY SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKMda7QVWv3uhHK-qWTZb_yHFxvlxxGobpa3YWGuCjPA&s=10" group-title="DEPORTES", TELEMUNDO
 http://45.170.34.136/TELEMUNDO/index.m3u8
 
+#EXTINF:-1 tvg-id=\"ESPN 5 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 4 
+http://216.106.179.7:8080/ESPN4HD/index.m3u8
+
+#EXTINF:-1 tvg-id=\"ESPN 5 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 5 
+http://216.106.179.7:8080/ESPN5HD/index.m3u8
+
+#EXTINF:-1 tvg-id=\"ESPN 6 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 6 
+http://216.106.179.7:8080/ESPN6HD/index.m3u8
+
+#EXTINF:-1 tvg-id=\"ESPN 7 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 7 
+http://216.106.179.7:8080/ESPN7HD/index.m3u8
+
 #EXTINF:-1 tvg-name="BEIN SPORTS Ñ" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/bein-sports-en-espanol-logo-main-copy-2.png" group-title="LIGAS EUROPEAS",🇫🇷 Liga 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BEIN_SPORTS--
