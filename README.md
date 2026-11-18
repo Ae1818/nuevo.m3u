@@ -21,7 +21,7 @@ https://cdn-edge2.cef-technology.com/wow/wow_tv/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+http://190.93.224.42/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 2 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 2
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
