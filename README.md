@@ -24,7 +24,7 @@ https://5bf8041cb3fed.streamlock.net/alabanzaypalabrakids/alabanzaypalabrakids/p
 http://190.93.224.42/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 2 HD.uy\" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" group-title="DEPORTES", ESPN 2
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+http://45.134.141.161:2200/ARG/ESPN_2_HD/index.m3u8
 
 #EXTINF:-1 tvg-id=\"ESPN 3 HD.uy\" group-title="DEPORTES" tvg-logo="https://espnpressroom.com/us/files/2021/06/0-ESPN-Logo-for-PressRoom.jpg" ,ESPN 3
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
